@@ -8,7 +8,7 @@ import (
 	"strings"
 
 	"github.com/nitrous-io/goop/colors"
-	"github.com/nitrous-io/goop/goop"
+	"github.com/vhodges-ttc/goop/goop"
 )
 
 func main() {
